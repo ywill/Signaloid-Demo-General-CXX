@@ -58,10 +58,10 @@ There are two ways to access a GitHub repository from the Signaloid Cloud Develo
 ### Option 1:  Using the “Add to signaloid.io” Button
 This first option makes it easiest for you (and other GitHub users) to run your repository on the Signaloid Cloud Developer Platform. Edit the snippet at the top of this `README.md` to include the URL of your Git repository.
 
-The text you need to change is (replacing the text `<your repository URL here>`):
+The text you need to change is (replacing the text `https://github.com/ywill/Signaloid-Demo-General-CXX.git`):
 ```html
-[<img src="https://assets.signaloid.io/add-to-signaloid-cloud-logo-dark-v6.svg#gh-dark-mode-only" alt="[Add to signaloid.io]" height="30">](https://signaloid.io/repositories?connect=<your repository URL here>#gh-dark-mode-only)
-[<img src="https://assets.signaloid.io/add-to-signaloid-cloud-logo-light-v6.svg#gh-light-mode-only" alt="[Add to signaloid.io]" height="30">](https://signaloid.io/repositories?connect=<your repository URL here>#gh-light-mode-only)
+[<img src="https://assets.signaloid.io/add-to-signaloid-cloud-logo-dark-v6.svg#gh-dark-mode-only" alt="[Add to signaloid.io]" height="30">](https://signaloid.io/repositories?connect=https://github.com/ywill/Signaloid-Demo-General-CXX.git#gh-dark-mode-only)
+[<img src="https://assets.signaloid.io/add-to-signaloid-cloud-logo-light-v6.svg#gh-light-mode-only" alt="[Add to signaloid.io]" height="30">](https://signaloid.io/repositories?connect=https://github.com/ywill/Signaloid-Demo-General-CXX.git#gh-light-mode-only)
 ```
 
 Next, go to the repository's Github page and click on the “Add to signaloid.io” button.
